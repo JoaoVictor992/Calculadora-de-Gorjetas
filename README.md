@@ -36,6 +36,11 @@ Pre-Visualização:
 
 
 
+<img width="586" height="615" alt="image" src="https://github.com/user-attachments/assets/06547073-4399-4903-a587-9a2476f7f057" />
+
+
+
+
 Este projeto é um teste e um treino para minhas habilidades
 
 Contribuições são bem-vindas!
