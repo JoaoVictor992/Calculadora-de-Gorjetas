@@ -28,7 +28,7 @@ git clone https://github.com/JoaoVictor992/Calculadora-de-Gorjetas.git
 Abra o arquivo index.html no seu navegador.
 
 
-Pre-Visualização
+Pre-Visualização:
 
 
 
